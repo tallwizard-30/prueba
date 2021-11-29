@@ -1,0 +1,45 @@
+.principal{
+	background-color: gray;
+	height: 2000px;
+	width: auto;
+}
+.nose{
+	background-color: black;
+	height: 50px;
+	width: auto;
+}
+.prueba{
+   
+    background-image: url(https://images.unsplash.com/photo-1637096990374-a06f80ed6e99?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=928&q=80);
+
+   background-size: cover;
+  height: 400px;
+  background-size: 100%;
+  background-repeat:no-repeat;
+ 
+ }
+
+ .persona1 ,.persona2,.persona3{
+   
+
+   background-size: cover;
+  
+  background-size: 100% 100%;
+  background-repeat:no-repeat;
+  image-rendering: optimizeQuality;
+  opacity:0.9;
+ 
+ }
+
+ .persona1{
+
+ 	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-IFVAnDFmPDjhijJijwlt_XvLuLh3FJV-Ug&usqp=CAU);
+ }
+ .persona2{
+ 	background-image: url(https://ccg.org.ec/wp-content/uploads/person3.jpg);
+ }
+ .persona3{
+
+ 	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRORyMKmLm-jHJCfeHZUP7KW4jucHNOWJAGtohsjVIaf7ipDjcVZeqfP1YQ123gF0dlyvE&usqp=CAU);
+ }
+ 
